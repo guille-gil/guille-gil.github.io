@@ -6,6 +6,8 @@ author_profile: true
 classes: wide
 ---
 
+My surname is **Gil de Avalle** (cite as Gil de Avalle, G.).
+
 I am a PhD candidate at the Faculty of Economics and Business, [University of Groningen](https://www.rug.nl/), affiliated with the [OPERA research group](https://www.rug.nl/feb/research/operations/). My research addresses how agentic AI systems can be grounded in explicit domain knowledge so that the support they provide remains reliable in industrial settings where an incorrect instruction has real consequences.
 
 Large language models produce fluent guidance without any commitment to the procedures an organisation actually sanctions. My work treats structured knowledge sources, and graph-based representations in particular, as the mechanism that constrains what an agent is permitted to say and do, and asks under which conditions structured traversal is preferable to unstructured retrieval. The setting is maintenance and operator support, where procedural knowledge is abundant but locked in diagrams and standard operating documents rather than in machine-readable form.

@@ -177,3 +177,21 @@ body,
 @media print {
   .masthead, .page, .sidebar > * { background: none; }
 }
+
+/* ---- Name: given name and compound surname ---------------------------- */
+.author__name .given {
+  display: block;
+  font-weight: 400;
+  font-size: 0.85em;
+  letter-spacing: 0.04em;
+  color: #3d4549;
+}
+
+.author__name .surname {
+  display: block;
+  font-weight: 800;
+  color: #0b5f58;
+  border-bottom: 2px solid #0d9488;
+  padding-bottom: 0.1em;
+  white-space: nowrap;
+}
