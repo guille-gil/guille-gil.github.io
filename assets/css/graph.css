@@ -195,3 +195,8 @@ body,
   padding-bottom: 0.1em;
   white-space: nowrap;
 }
+
+/* No brand text in the masthead; navigation links stay. */
+.masthead__menu-item--lg {
+  display: none;
+}
