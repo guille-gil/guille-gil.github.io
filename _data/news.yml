@@ -1,0 +1,18 @@
+# One entry per item, newest first. Optional fields:
+#   video:    YouTube video id (shows a thumbnail that links to the video)
+#   linkedin: URL of your LinkedIn post (adds a "LinkedIn" link)
+#   link:     any other URL (adds a "Read" link)
+- date: "Oct 2026"
+  text: "DiagFlowBench presented at the EMNLP 2026 Industry Track in Budapest."
+  link: "https://aclanthology.org/2026.emnlp-industry.108/"
+- date: "Sep 2026"
+  text: "AIXPERT published a short video presentation of DiagFlowBench."
+  video: "04OxLoke0ZY"
+- date: "Sep 2026"
+  text: "FlowExtract presented at APMS 2026 in Bergamo."
+  link: "https://arxiv.org/abs/2604.06770"
+- date: "2026"
+  text: "Procedural knowledge extraction from troubleshooting guides accepted at the 23rd IFAC World Congress."
+  link: "https://arxiv.org/abs/2601.22754"
+- date: "2026"
+  text: "Research proposal accepted at the APMS 2026 Doctoral Workshop."

@@ -1,0 +1,19 @@
+<ul class="news">
+{% for item in site.data.news %}
+  <li class="news__item">
+    <span class="news__date">{{ item.date }}</span>
+    <div class="news__body">
+      <p>{{ item.text }}
+        {% if item.link %}<a href="{{ item.link }}">Read</a>{% endif %}
+        {% if item.linkedin %}<a href="{{ item.linkedin }}">LinkedIn</a>{% endif %}
+      </p>
+      {% if item.video %}
+      <a class="news__video" href="https://www.youtube.com/watch?v={{ item.video }}" aria-label="Watch the video on YouTube">
+        <img src="https://i.ytimg.com/vi/{{ item.video }}/mqdefault.jpg" alt="Video thumbnail" loading="lazy" width="320" height="180">
+        <span class="news__play" aria-hidden="true"></span>
+      </a>
+      {% endif %}
+    </div>
+  </li>
+{% endfor %}
+</ul>

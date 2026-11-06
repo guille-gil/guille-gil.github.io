@@ -19,3 +19,161 @@
     display: none;
   }
 }
+
+/* ---- Readability over the animation ---------------------------------- */
+.masthead {
+  background: rgba(255, 255, 255, 0.82);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+.page,
+.sidebar > *,
+.page__footer footer {
+  background: rgba(255, 255, 255, 0.88);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 6px;
+}
+
+.page {
+  padding: 0.4em 1.4em 1em;
+}
+
+.sidebar > * {
+  padding: 0.8em 1em;
+}
+
+/* Darker text in place of the theme's light greys. */
+body,
+.page__content,
+.page__content p,
+.page__content li,
+.author__bio,
+.author__content,
+.author__urls li,
+.author__urls a,
+.page__footer,
+.page__footer-follow li,
+.page__footer-copyright,
+.masthead__menu-item a {
+  color: #262b2e;
+}
+
+.author__urls a:hover,
+.page__content a:hover {
+  color: #0d6b63;
+}
+
+.page__footer footer {
+  padding: 1em;
+}
+
+/* ---- News feed -------------------------------------------------------- */
+.news {
+  list-style: none;
+  margin: 0 0 1em;
+  padding: 0;
+}
+
+.news__item {
+  display: flex;
+  gap: 1.2em;
+  padding: 0.6em 0 0.6em 1em;
+  border-left: 2px solid #0d9488;
+  margin-bottom: 0.4em;
+}
+
+.news__date {
+  flex: 0 0 5.2em;
+  font: 600 0.8em ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  color: #0d6b63;
+  padding-top: 0.25em;
+}
+
+.news__body p {
+  margin: 0 0 0.3em;
+}
+
+.news__body a {
+  margin-left: 0.5em;
+  font-size: 0.85em;
+}
+
+.news__video {
+  position: relative;
+  display: inline-block;
+  margin-left: 0 !important;
+  max-width: 260px;
+  border: 1px solid rgba(13, 148, 136, 0.5);
+  border-radius: 4px;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.news__video img {
+  width: 100%;
+  height: auto;
+}
+
+.news__play {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.18);
+}
+
+.news__play::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-35%, -50%);
+  border-left: 18px solid #fff;
+  border-top: 11px solid transparent;
+  border-bottom: 11px solid transparent;
+}
+
+@media (max-width: 500px) {
+  .news__item {
+    flex-direction: column;
+    gap: 0.1em;
+  }
+}
+
+/* ---- Research lines diagram ------------------------------------------- */
+.lines {
+  margin: 1.2em auto;
+  max-width: 520px;
+}
+
+.lines svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.lines__c {
+  fill: rgba(13, 148, 136, 0.12);
+  stroke: #0d9488;
+  stroke-width: 1.5;
+  transition: fill 0.2s;
+}
+
+.lines__c:hover {
+  fill: rgba(13, 148, 136, 0.22);
+}
+
+.lines__txt text {
+  fill: #262b2e;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  pointer-events: none;
+}
+
+.lines__h { font-size: 15px; font-weight: 700; }
+.lines__s { font-size: 11px; fill: #3d4549; }
+.lines__o { font-size: 10.5px; fill: #1f2427; }
+.lines__k { font-size: 12px; font-weight: 700; fill: #0b5f58; }
+
+@media print {
+  .masthead, .page, .sidebar > * { background: none; }
+}
