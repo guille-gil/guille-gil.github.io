@@ -1,0 +1,21 @@
+#graph-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* Let the graph show through the theme bars. */
+.masthead,
+.page__footer {
+  background: transparent;
+}
+
+@media print {
+  #graph-bg {
+    display: none;
+  }
+}

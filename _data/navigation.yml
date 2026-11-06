@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Teaching and supervision"
+    url: /teaching/
