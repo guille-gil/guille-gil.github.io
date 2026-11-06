@@ -50,6 +50,8 @@ The work runs across three connected lines, and its aim sits where they meet: op
 
 My position is funded by AIXPERT, a Horizon Europe project on trustworthy AI for industrial operations, with Philips Drachten as the primary industrial partner. I am supervised by [Christos Emmanouilidis](https://www.rug.nl/staff/c.emmanouilidis/) and [Laura Maruster](https://www.rug.nl/staff/l.maruster/).
 
+Previously, I worked as an AI Engineer and Consultant at Nexler, developing automation solutions using LLMs, APIs, and agentic frameworks, and as an Analytics Product Manager at BridgeU, developing predictive models for university admissions. I hold an MSc in Operations Management from the University of Groningen, graduated cum laude, with a thesis on machine learning applied to anomaly detection in wind turbines.
+
 I am glad to hear from anyone working on knowledge graphs, retrieval grounding, or agentic decision support in industrial operations.
 
 ## News
