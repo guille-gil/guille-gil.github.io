@@ -197,6 +197,6 @@ body,
 }
 
 /* No brand text in the masthead; navigation links stay. */
-.masthead__menu-item--lg {
+.masthead .site-title {
   display: none;
 }

@@ -3,7 +3,6 @@ minimal_mistakes_skin: "default"   # air, contrast, dark, dirt, mint, neon, plum
 
 locale: "en-GB"
 title: "Guillermo Gil de Avalle"
-masthead_title: "University of Groningen · OPERA"
 name: "Guillermo Gil de Avalle"
 description: "PhD candidate working on grounding agentic AI in explicit knowledge for reliable industrial operations, University of Groningen."
 url: "https://guille-gil.github.io"
