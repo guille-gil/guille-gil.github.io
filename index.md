@@ -43,11 +43,6 @@ The work sits across three areas, and its aim lies where they meet: operator sup
 </svg>
 </figure>
 
-- **Industrial AI.** Maintenance and operator support in production settings, where an incorrect instruction has real consequences.
-- **Grounding and compliance.** The conditions under which a generated answer can be traced back to a sanctioned procedure.
-- **Agentic AI.** Systems that plan and act with tools to support technicians during diagnosis and repair.
-- **Knowledge integration.** Building structured knowledge sources into those agentic systems, where grounding and agency meet.
-
 My position is funded by AIXPERT, a Horizon Europe project on trustworthy AI for industrial operations, with Philips Drachten as the primary industrial partner. I am supervised by [Christos Emmanouilidis](https://www.rug.nl/staff/c.emmanouilidis/) and [Laura Maruster](https://www.rug.nl/staff/l.maruster/).
 
 Previously, I worked as an AI Engineer and Consultant at Nexler, developing automation solutions using LLMs, APIs, and agentic frameworks, and as an Analytics Product Manager at BridgeU, developing predictive models for university admissions. I hold an MSc in Operations Management from the University of Groningen, graduated cum laude, with a thesis on machine learning applied to anomaly detection in wind turbines.
