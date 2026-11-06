@@ -2,6 +2,9 @@
 #   video:    YouTube video id (shows a thumbnail that links to the video)
 #   linkedin: URL of your LinkedIn post (adds a "LinkedIn" link)
 #   link:     any other URL (adds a "Read" link)
+- date: "Nov 2026"
+  text: "Joined the SAIN Groningen Association as a facilitator and lecturer."
+  link: "https://safeainetherlands.org/chapters/groningen"
 - date: "Oct 2026"
   text: "Paper on procedural correctness in AI-supported maintenance troubleshooting presented at IN4PL 2026 in Angers."
   link: "https://www.insticc.org/node/TechnicalProgram/in4pl/2026/presentationDetails/153093"

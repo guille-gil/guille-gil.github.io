@@ -8,11 +8,14 @@ classes: wide
 
 ## Teaching
 
-My teaching topics are smart industry operations, agentic AI, and AI safety.
+My teaching topics include Smart Industry Operations, Agentic AI, and AI safety.
+
+- [Smart Industry Operations](https://ocasys.rug.nl/current/catalog/course/EBM223A05) (EBM223A05), University of Groningen.
+- Facilitator and lecturer at [SAIN Groningen](https://safeainetherlands.org/chapters/groningen), the Groningen chapter of Safe AI Netherlands.
 
 ## Supervision
 
-I supervise MSc students in Technology and Operations Management whose projects are embedded at Philips Drachten through the AIXPERT project. Current topics concern constrained conversational agents for maintenance support.
+I supervise MSc students in Technology and Operations Management whose projects are embedded at Philips Drachten through the AIXPERT project. Current topics concern multi-agentic conversational assistants for maintenance support.
 
 ## Prospective students
 
