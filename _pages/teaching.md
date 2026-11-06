@@ -4,6 +4,8 @@ permalink: /teaching/
 layout: single
 author_profile: true
 classes: wide
+full_title: "Teaching and supervision - Guillermo Gil de Avalle"
+description: "Teaching by Guillermo Gil de Avalle on smart industry operations, agentic AI and AI safety at the University of Groningen and SAIN Groningen."
 ---
 
 ## Teaching

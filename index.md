@@ -4,6 +4,8 @@ permalink: /
 layout: single
 author_profile: true
 classes: wide
+full_title: "Guillermo Gil de Avalle - PhD candidate in AI, University of Groningen"
+description: "Guillermo Gil de Avalle is a PhD candidate in artificial intelligence at the University of Groningen (OPERA), working on grounded agentic AI for reliable industrial operations."
 ---
 
 My surname is **Gil de Avalle** (cite as Gil de Avalle, G.).

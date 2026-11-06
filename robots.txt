@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guille-gil.github.io/sitemap.xml

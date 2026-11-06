@@ -4,9 +4,11 @@ minimal_mistakes_skin: "default"   # air, contrast, dark, dirt, mint, neon, plum
 locale: "en-GB"
 title: "Guillermo Gil de Avalle"
 name: "Guillermo Gil de Avalle"
-description: "PhD candidate working on grounding agentic AI in explicit knowledge for reliable industrial operations, University of Groningen."
+description: "Guillermo Gil de Avalle is a PhD candidate in artificial intelligence at the University of Groningen (OPERA), working on grounded agentic AI for reliable industrial operations."
 url: "https://guille-gil.github.io"
 repository: "guille-gil/guille-gil.github.io"
+
+og_image: "/assets/images/og.png"
 
 words_per_minute: 200
 search: false

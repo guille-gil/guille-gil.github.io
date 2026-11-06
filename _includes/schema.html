@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ProfilePage",
+      "@id": {{ '/#profile' | absolute_url | jsonify }},
+      "url": {{ '/' | absolute_url | jsonify }},
+      "name": "Guillermo Gil de Avalle, PhD candidate in artificial intelligence, University of Groningen",
+      "inLanguage": "en-GB",
+      "mainEntity": { "@id": {{ '/#person' | absolute_url | jsonify }} }
+    },
+    {
+      "@type": "Person",
+      "@id": {{ '/#person' | absolute_url | jsonify }},
+      "name": "Guillermo Gil de Avalle",
+      "givenName": "Guillermo",
+      "familyName": "Gil de Avalle",
+      "alternateName": [
+        "Gil de Avalle, G.",
+        "Guillermo Gil de Avalle Bellido",
+        "Guillermo de Avalle Bellido"
+      ],
+      "jobTitle": "PhD candidate in artificial intelligence",
+      "description": "PhD candidate in artificial intelligence at the University of Groningen (OPERA research group), working on grounded agentic AI for reliable industrial operations.",
+      "url": {{ '/' | absolute_url | jsonify }},
+      "image": {{ '/assets/images/og.png' | absolute_url | jsonify }},
+      "worksFor": { "@type": "CollegeOrUniversity", "name": "University of Groningen", "url": "https://www.rug.nl/" },
+      "affiliation": { "@type": "CollegeOrUniversity", "name": "University of Groningen", "url": "https://www.rug.nl/" },
+      "alumniOf": { "@type": "CollegeOrUniversity", "name": "University of Groningen", "url": "https://www.rug.nl/" },
+      "knowsAbout": ["Agentic AI", "Industrial AI", "Grounding and compliance", "Knowledge integration", "Retrieval-augmented generation", "Smart industry operations", "AI safety"],
+      "identifier": { "@type": "PropertyValue", "propertyID": "ORCID", "value": "0009-0004-1538-2256" },
+      "sameAs": [
+        "https://orcid.org/0009-0004-1538-2256",
+        "https://scholar.google.com/citations?user=r9g7B5sAAAAJ",
+        "https://www.linkedin.com/in/guillermo-gil-de-avalle-bellido/",
+        "https://github.com/guille-gil"
+      ]
+    }
+  ]
+}
+</script>
