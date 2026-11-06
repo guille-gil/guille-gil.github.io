@@ -26,12 +26,12 @@ The work runs across three connected lines, and its aim sits where they meet: op
 <g class="lines__txt" text-anchor="middle">
 <text class="lines__h" x="280" y="92">Extraction</text>
 <text class="lines__s" x="280" y="110">documents to graphs</text>
-<text class="lines__h" x="132" y="352">Grounding</text>
-<text class="lines__h" x="132" y="370">&amp; compliance</text>
-<text class="lines__s" x="132" y="388">tracing answers</text>
-<text class="lines__h" x="428" y="352">Agentic</text>
-<text class="lines__h" x="428" y="370">integration</text>
-<text class="lines__s" x="428" y="388">support in the loop</text>
+<text class="lines__h" x="140" y="352">Grounding</text>
+<text class="lines__h" x="140" y="370">&amp; compliance</text>
+<text class="lines__s" x="140" y="388">traceability</text>
+<text class="lines__h" x="420" y="352">Agentic</text>
+<text class="lines__h" x="420" y="370">integration</text>
+<text class="lines__s" x="420" y="388">operator loop</text>
 <text class="lines__o" x="218" y="213">sanctioned</text>
 <text class="lines__o" x="218" y="226">structure</text>
 <text class="lines__o" x="342" y="213">queryable</text>

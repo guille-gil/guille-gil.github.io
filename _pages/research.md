@@ -12,7 +12,7 @@ Also available on [Google Scholar](https://scholar.google.com/citations?user=r9g
 
 **[C-26.3]** Gil de Avalle, G., Maruster, L., Raza, S., Emmanouilidis, C. DiagFlowBench: Evaluating how language models handle off-procedure inputs in grounded diagnostic dialogue. *Proceedings of EMNLP 2026: Industry Track*, pp. 1854–1871, 2026. \[[Paper](https://aclanthology.org/2026.emnlp-industry.108/)\] \[[Code and data](https://github.com/guille-gil/DiagFlowBench)\]
 
-**[C-26.2]** Gil de Avalle, G., Maruster, L., Sloot, E., Emmanouilidis, C. FlowExtract: Procedural knowledge extraction from maintenance flowcharts. *Advances in Production Management Systems (APMS 2026)*, 2026. \[[Preprint](https://arxiv.org/abs/2604.06770)\] \[[Code](https://github.com/guille-gil/FlowExtract)\]
+**[C-26.2]** Gil de Avalle, G., Maruster, L., Sloot, E., Emmanouilidis, C. FlowExtract: Procedural knowledge extraction from maintenance flowcharts. *Advances in Production Management Systems: Shaping the Future of Industry Through Sustainable, Data-Driven, and Human-Centric Production Systems (APMS 2026)*, IFIP AICT, Springer, pp. 354–369, 2026. \[[DOI](https://doi.org/10.1007/978-3-032-38594-9_24)\] \[[Preprint](https://arxiv.org/abs/2604.06770)\] \[[Code](https://github.com/guille-gil/FlowExtract)\]
 
 **[C-26.1]** Gil de Avalle, G., Maruster, L., Emmanouilidis, C. Procedural knowledge extraction from industrial troubleshooting guides using vision language models. *23rd IFAC World Congress (IFAC 2026)*, 2026. \[[Preprint](https://arxiv.org/abs/2601.22754)\]
 
