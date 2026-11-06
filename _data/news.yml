@@ -3,6 +3,9 @@
 #   linkedin: URL of your LinkedIn post (adds a "LinkedIn" link)
 #   link:     any other URL (adds a "Read" link)
 - date: "Oct 2026"
+  text: "Paper on procedural correctness in AI-supported maintenance troubleshooting presented at IN4PL 2026 in Angers."
+  link: "https://www.insticc.org/node/TechnicalProgram/in4pl/2026/presentationDetails/153093"
+- date: "Oct 2026"
   text: "DiagFlowBench presented at the EMNLP 2026 Industry Track in Budapest."
   link: "https://aclanthology.org/2026.emnlp-industry.108/"
 - date: "Sep 2026"
