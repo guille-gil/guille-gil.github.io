@@ -45,7 +45,7 @@ The work sits across three areas, and its aim lies where they meet: operator sup
 </svg>
 </figure>
 
-My position is funded by [AIXPERT](https://aixpert-project.eu/), a Horizon Europe project on trustworthy AI for industrial operations, with Philips Drachten as the primary industrial partner. I am supervised by [Christos Emmanouilidis](https://www.rug.nl/staff/c.emmanouilidis/) and [Laura Maruster](https://www.rug.nl/staff/l.maruster/).
+My position is funded by [AIXPERT](https://aixpert-project.eu/), a Horizon Europe project on explainable, accountable and trustworthy agentic AI, with Philips Drachten as the main industrial partner. I am supervised by [Christos Emmanouilidis](https://www.rug.nl/staff/c.emmanouilidis/) and [Laura Maruster](https://www.rug.nl/staff/l.maruster/).
 
 Previously, I worked as an AI Engineer and Consultant at Nexler, developing automation solutions using LLMs, APIs, and agentic frameworks, and as an Analytics Product Manager at BridgeU, developing predictive models for university admissions. I hold an MSc in Operations Management from the University of Groningen, graduated cum laude, with a thesis on machine learning applied to anomaly detection in wind turbines.
 
