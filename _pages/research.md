@@ -28,7 +28,7 @@ Also available on [Google Scholar](https://scholar.google.com/citations?user=r9g
 
 ## Service
 
-Reviewer for *Computers in Industry*, *Engineering Applications of Artificial Intelligence*, and the APMS 2026 Doctoral Workshop.
+Reviewer for *Computers in Industry* and *Engineering Applications of Artificial Intelligence*.
 
 <script type="application/ld+json">
 {
