@@ -17,4 +17,4 @@ My teaching topics include Smart Industry Operations, Agentic AI, and AI safety.
 
 ## Supervision
 
-I supervise MSc students in Technology and Operations Management whose projects are embedded at Philips Drachten through the AIXPERT project. Current topics concern multi-agentic conversational assistants for maintenance support.
+I supervise MSc students in Technology and Operations Management whose projects are embedded at Philips Drachten through the [AIXPERT](https://aixpert-project.eu/) project. Current topics concern multi-agentic conversational assistants for maintenance support.

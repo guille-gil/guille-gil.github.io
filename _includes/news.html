@@ -3,7 +3,7 @@
   <li class="news__item">
     <span class="news__date">{{ item.date }}</span>
     <div class="news__body">
-      <p>{{ item.text }}
+      <p>{{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}
         {% if item.link %}<a href="{{ item.link }}">Read</a>{% endif %}
         {% if item.linkedin %}<a href="{{ item.linkedin }}">LinkedIn</a>{% endif %}
       </p>
