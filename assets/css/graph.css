@@ -200,3 +200,9 @@ body,
 .masthead .site-title {
   display: none;
 }
+
+/* Publication entries: title stands out from authors and venue. */
+.page__content ul > li > p > strong:first-child,
+.page__content ul > li > strong:first-child {
+  color: #0b5f58;
+}
